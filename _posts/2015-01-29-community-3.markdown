@@ -1,0 +1,17 @@
+---
+layout: default
+img: phones.png
+category: community
+title: 協會成員所屬社群
+description: |
+  <p class="lead">
+  <a target="_blank" href="https://www.facebook.com/groups/KSDGroup/">KSDG</a>, 
+  <a target="_blank" href="https://www.facebook.com/groups/cocoaheads.kaohsiung/">Cocoaheads Kaohsiung</a>, 
+  <a target="_blank" href="https://www.facebook.com/groups/358503154261390/">高雄前端社群</a>, 
+  <a target="_blank" href="https://www.facebook.com/groups/569223303140308/">Kaohsiung Rails Meetup x 讀書會</a>, 
+  <a target="_blank" href="https://www.facebook.com/groups/AKDGroup/">高雄 Android 開發者社群</a>, 
+  <a target="_blank" href="https://www.facebook.com/mobilegirlsfans">Mobile Girls</a>, 
+  <a target="_blank" href="https://www.facebook.com/groups/586802908085537/">KSDP</a> 
+  </p>
+
+---

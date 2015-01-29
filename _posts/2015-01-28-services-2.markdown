@@ -1,0 +1,12 @@
+---
+layout: default
+img: dog.png
+category: services
+title: 服務項目
+description: |
+  <p class="lead">一、軟體技術社群聚會及科技研討會舉辦</p>
+  <p class="lead">二、提倡交流以提升軟體開發人才競爭力</p>
+  <p class="lead">三、推展以軟體科技為基礎之輔導方案與計畫</p>
+  <p class="lead">四、軟體研發人才之培育與職能評鑑</p>
+
+---
