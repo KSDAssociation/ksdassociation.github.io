@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: corp.png
 category: community
 title: 協會成員所屬社群
 description: |
